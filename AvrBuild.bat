@@ -1,0 +1,2 @@
+@ECHO OFF
+"C:\Program Files\Atmel\AVR Tools\AvrAssembler2\avrasm2.exe" -S "E:\Projects\_Soft for AVR_\Counter Canon\Firmware\Ver 2\labels.tmp" -fI -W+ie -C V2E -o "E:\Projects\_Soft for AVR_\Counter Canon\Firmware\Ver 2\CounterCanon.hex" -d "E:\Projects\_Soft for AVR_\Counter Canon\Firmware\Ver 2\CounterCanon.obj" -e "E:\Projects\_Soft for AVR_\Counter Canon\Firmware\Ver 2\CounterCanon.eep" -m "E:\Projects\_Soft for AVR_\Counter Canon\Firmware\Ver 2\CounterCanon.map" "E:\Projects\_Soft for AVR_\Counter Canon\Firmware\Ver 2\CounterCanon.asm"

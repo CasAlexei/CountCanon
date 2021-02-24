@@ -1,0 +1,8 @@
+[Device]
+Name=ATmega8
+Sig0=30
+Sig1=147
+Sig2=7
+[Fusebits]
+Lo=255
+Hi=233
